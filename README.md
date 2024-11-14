@@ -1,6 +1,5 @@
 # Agrupador-de-Arquivos
 
-Aqui está a descrição ajustada, destacando a disponibilidade do código e do arquivo para uso por outros:
 
 ---
 
